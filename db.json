@@ -1,0 +1,45 @@
+{
+    "superheros":[
+        {
+           "id": 1,
+           "name": "wolverine"
+        },
+        {
+            "id":2,
+            "name":"cabertooth"
+        },
+        {
+            "id":3,
+            "name":"juggernaut"
+        }    
+    ],
+
+    "vilians":[
+        {
+            "id":1,
+            "name":"Thanos"
+        },
+        {
+            "id":2,
+            "name":"Joker"
+        },
+        {
+            "id":3,
+            "name":"reverse-flash"
+        }
+    ],
+    "sidekick":[
+        {
+            "id":1,
+            "name":"scoobydoo"
+        },
+        {
+            "id":2,
+            "name":"robin"
+        },
+        {
+            "id":3,
+            "name":"krypto"
+        }
+    ]
+}
